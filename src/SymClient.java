@@ -42,7 +42,7 @@ public class SymClient {
             System.out.println(dog);
         }
     }
-
+    //other methods in object classes
     public static void murder(Person crim, Person victim, boolean caught){
         System.out.println(victim.getName() + " has died");
         victim = null;
